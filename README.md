@@ -20,7 +20,8 @@ Debug logging (optional)
 Restart Home Assistant
 
 
-# API
+# API Reference
+Discovery not complete
 ```
 GET https://handla.api.ica.se/api/user/offlineshoppinglists HTTP/1.1
 ```
@@ -89,16 +90,16 @@ GET https://handla.api.ica.se/api/login HTTP/1.1
 ```
 ```json
 {
-    'FirstName': 'Förnamn',
-    'LastName': 'Efternamn',
-    'Ttl': 1200,
-    'CustomerRole': 7,
-    'Id': 123456789.0,
-    'ZipCode': '10000',
-    'City': 'STOCKHOLM',
-    'Gender': 'Man',
-    'YearOfBirth': '1900',
-    'CardType': 1
+    "FirstName": "Förnamn",
+    "LastName": "Efternamn",
+    "Ttl": 1200,
+    "CustomerRole": 7,
+    "Id": 123456789.0,
+    "ZipCode": "10000",
+    "City": "STOCKHOLM",
+    "Gender": "Man",
+    "YearOfBirth": "1900",
+    "CardType": 1
 }
 ```
 ```

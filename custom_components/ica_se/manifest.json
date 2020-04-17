@@ -1,7 +1,7 @@
 {
   "domain": "ica_se",
   "name": "ICA.se Handla API",
-  "documentation": "not yet",
+  "documentation": "https://github.com/gjohansson-ST/ICA_se/blob/master/README.md",
   "dependencies": [],
   "codeowners": ["gjohansson-st"],
   "requirements": []
