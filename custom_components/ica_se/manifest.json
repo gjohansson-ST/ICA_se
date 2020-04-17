@@ -1,0 +1,8 @@
+{
+  "domain": "ica_se",
+  "name": "ICA.se Handla API",
+  "documentation": "not yet",
+  "dependencies": [],
+  "codeowners": ["gjohansson-st"],
+  "requirements": []
+}
