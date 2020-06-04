@@ -3,6 +3,6 @@
   "name": "ICA.se Handla API",
   "documentation": "https://github.com/gjohansson-ST/ICA_se/blob/master/README.md",
   "dependencies": [],
-  "codeowners": ["gjohansson-st"],
+  "codeowners": ["@gjohansson-ST"],
   "requirements": []
 }
